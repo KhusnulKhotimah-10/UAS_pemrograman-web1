@@ -62,10 +62,11 @@ BayarKas/
 *Saat memilih metode "Transfer Bank", instruksi pembayaran (Nomor Rekening) akan muncul secara otomatis menggunakan JavaScript sebelum data disimpan.*
 
 ### 5. Fitur Pencarian & Filter
-![Fitur Cari](https://images2.imgbox.com/f9/55/K30I6iCH_o.png)
+<img width="1366" height="768" alt="Screenshot at 2026-01-09 12-02-50" src="https://github.com/user-attachments/assets/18a1bb75-cc52-4b04-a18e-1945a40ec761" />
+
 *Memudahkan pencarian riwayat kas berdasarkan nama mahasiswa atau keterangan transaksi.*
 
-##  Cara Instalasi (Localhost)
+## Instalasi (Localhost)
 1. Clone atau download repository ini.
 2. Pindahkan folder ke direktori `htdocs` (XAMPP).
 3. Import file `database.sql` ke phpMyAdmin.
@@ -75,6 +76,7 @@ BayarKas/
 ## Akun Demo
 Akun Admin: username: admin | password: 123
 Akun Mahasiswa: username: mahasiswa | password: 123
+Akun Mahasiswa: username: khusnul | password: 123
 
 ---
 *Tugas ini disusun untuk memenuhi tugas pemrograman web 1 - © 2026*
