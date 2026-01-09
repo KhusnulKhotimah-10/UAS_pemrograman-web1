@@ -56,7 +56,9 @@ BayarKas/
 *Mahasiswa hanya dapat melihat riwayat pembayaran mereka sendiri dan memiliki tombol hijau **"Bayar Kas Sekarang"** untuk membayar mandiri.*
 
 ### 4. Form Pembayaran & Instruksi
-![Form Pembayaran](https://images2.imgbox.com/71/3b/68uO29Kz_o.png)
+<img width="1366" height="768" alt="Screenshot at 2026-01-09 11-47-55" src="https://github.com/user-attachments/assets/ccad4c43-94fc-43f7-bfa4-26d43686acc9" />
+<img width="1366" height="768" alt="Screenshot at 2026-01-09 11-48-03" src="https://github.com/user-attachments/assets/d94279ef-90ac-4b32-85df-b4a7bbf37724" />
+
 *Saat memilih metode "Transfer Bank", instruksi pembayaran (Nomor Rekening) akan muncul secara otomatis menggunakan JavaScript sebelum data disimpan.*
 
 ### 5. Fitur Pencarian & Filter
