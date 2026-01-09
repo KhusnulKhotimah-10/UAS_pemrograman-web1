@@ -41,6 +41,7 @@ BayarKas/
 
 ### 1. Sistem Autentikasi & Login
 <img width="1366" height="768" alt="Screenshot at 2026-01-09 11-44-48" src="https://github.com/user-attachments/assets/942c97e8-4638-4011-92eb-c57774160fc9" />
+
 *Proteksi Halaman: Jika pengguna mencoba mengakses URL dashboard secara langsung tanpa login, sistem akan otomatis menolaknya dan mengarahkan kembali ke halaman login.*
 
 ### 2. Dashboard Admin (Bendahara)
@@ -49,7 +50,9 @@ BayarKas/
 *Admin memiliki kontrol penuh untuk mengelola data, melihat total kas, dan melakukan aksi Edit/Hapus pada setiap transaksi.*
 
 ### 3. Dashboard Mahasiswa
-![Dashboard Mahasiswa](https://images2.imgbox.com/13/46/YpY1I72Y_o.png)
+<img width="1366" height="768" alt="Screenshot at 2026-01-09 11-48-55" src="https://github.com/user-attachments/assets/06f6d7c3-1ac1-4488-b74c-e57e06fbb30d" />
+<img width="1366" height="768" alt="Screenshot at 2026-01-09 11-48-03" src="https://github.com/user-attachments/assets/6c9299bf-f82a-4d13-aa93-ba7841c81a7e" />
+
 *Mahasiswa hanya dapat melihat riwayat pembayaran mereka sendiri dan memiliki tombol hijau **"Bayar Kas Sekarang"** untuk membayar mandiri.*
 
 ### 4. Form Pembayaran & Instruksi
