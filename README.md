@@ -21,7 +21,8 @@ Aplikasi berbasis web sederhana untuk mengelola kas kelas secara transparan anta
 
 ##  Struktur folder
 
-BayarKas/
+
+```BayarKas/
 ├── controllers/
 │   └── KasController.php   # Logika bisnis transaksi kas
 ├── models/
@@ -35,7 +36,7 @@ BayarKas/
 ├── partials/
 │   ├── header.php          # Header & Navbar
 │   └── footer.php          # Footer & Script
-└── index.php               # Router utama aplikasi
+└── index.php               # Router utama aplikasi```
 
 ##  Screenshots & Cara Kerja
 
@@ -74,10 +75,10 @@ BayarKas/
 5. Buka browser dan akses `localhost/nama-folder-anda`.
 
 ## Akun Demo
-Akun Admin: username: admin | password: 123
-Akun Mahasiswa: username: mahasiswa | password: 123
 
-Akun Mahasiswa: username: khusnul | password: 123
+``` Akun Admin: username: admin | password: 123
+Akun Mahasiswa: username: mahasiswa | password: 123
+Akun Mahasiswa: username: khusnul | password: 123 ```
 
 ---
 *Tugas ini disusun untuk memenuhi tugas pemrograman web 1 - © 2026*
