@@ -51,7 +51,7 @@ BayarKas/
 
 ### 3. Dashboard Mahasiswa
 <img width="1366" height="768" alt="Screenshot at 2026-01-09 11-48-55" src="https://github.com/user-attachments/assets/06f6d7c3-1ac1-4488-b74c-e57e06fbb30d" />
-<img width="1366" height="768" alt="Screenshot at 2026-01-09 11-48-03" src="https://github.com/user-attachments/assets/6c9299bf-f82a-4d13-aa93-ba7841c81a7e" />
+<img width="1366" height="768" alt="Screenshot at 2026-01-09 11-47-13" src="https://github.com/user-attachments/assets/e0bc8229-e8e9-4713-ab8b-2ccbcda28839" />
 
 *Mahasiswa hanya dapat melihat riwayat pembayaran mereka sendiri dan memiliki tombol hijau **"Bayar Kas Sekarang"** untuk membayar mandiri.*
 
